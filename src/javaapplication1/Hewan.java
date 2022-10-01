@@ -61,5 +61,4 @@ public class Hewan {
     Boolean tidur(Boolean t) {
         return t;
     }
-
 }
