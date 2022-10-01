@@ -76,4 +76,5 @@ public class Manusia {
     String mencuci(String mc){
         return mc;
     }
+
 }

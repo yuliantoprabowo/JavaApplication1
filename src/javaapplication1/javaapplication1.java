@@ -8,7 +8,5 @@ public class javaapplication1 {
                 System.out.println(h.getTelinga());
 
                 System.out.println(h.bermain("Bola"));
-
-
     }
 }
